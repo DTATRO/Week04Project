@@ -129,4 +129,3 @@ for (let i = 0; i < array1; i++){ // for loop to iterate through the array
  function homeworkDone(time, patience){ // create a function for if I will get my homework done
 return time && patience // return true if both are true
  } console.log(homeworkDone(true, false)) // returns false because I have no patience 
-    
